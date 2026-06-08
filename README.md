@@ -17,6 +17,8 @@ Welcome to my GitHub profile!
 🌱**Currently Learning:** Advancing my skills in Data Science and visualization.  
 
 
+**📫 How to reach me:** eniwebdesign [at] gmail.com
+
 <!--
 **ReplicantCapybara/ReplicantCapybara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
