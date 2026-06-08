@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## ✨ Featured Projects  
 🤑**XPBudget(https://xpbudget.com/)** - an online dashboard for tracking and analysing your personal finances, wrapped into a pixel-art style gaming design  
-🧶**RowCounter(https://chromewebstore.google.com/detail/rowcounter/aafmnkhjhjghihpdmeehbcpecnnbhcga)** - a Chrome extension to count stitches and rows in crochet and knitting projects
+🧶**RowCounter(https://chromewebstore.google.com/detail/rowcounter/aafmnkhjhjghihpdmeehbcpecnnbhcga)** - a Chrome extension to count stitches and rows in crochet and knitting projects  
 🌿**Plantsy Dinner(https://plantsy-dinner.lovable.app):** - a meal planner for busy weekdays to ease decision fatigue while transitioning to a plant-based diet
 
 ## 🛠️ Tech Stack & Interests
